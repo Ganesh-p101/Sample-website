@@ -1,0 +1,14 @@
+li{
+  padding:10px;
+}
+body{
+  font-size:20px;
+  background-color:lightgray;
+}
+h1{
+  padding: :50px;
+}
+input[type=checkbox]{
+  accent-color: green;
+  
+}

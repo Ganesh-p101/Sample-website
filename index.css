@@ -1,0 +1,80 @@
+
+.nightMode{
+  background-color: black: 
+  color:white;
+}
+  .MainLogo{
+    position:relative;
+    display: inline-block;
+}
+.MainLogo:hover .TextLogo{
+  opacity: 0.5;
+  
+}
+.MainLogo:hover .imgLogo{
+  display:block;
+  margin: 0 flex;
+  width:200px;
+  height:200px;
+  float:right;animation-duration: 
+  transition: opacity 0.9s ease;
+}
+.TextLogo{
+  display:
+  
+  
+}
+.imgLogo{
+  
+  display:none;
+  width:200px;
+  height:200px;
+  position:auto;
+}
+
+
+h1{
+  display:block;
+  background-color:orange;
+  font-size:lager;
+  text-align:center;
+}
+
+ul {
+  list-style-type:none;
+  width: 0;
+  background-color: black;
+  padding: 0;
+  overflow:hidden;
+}
+
+li {
+  float:left;
+  
+}
+li:visited{
+  background-color:green;
+  color:white;
+  
+  
+}
+li a {
+  display: block;
+  padding:18px 20px;
+  text-align: center;
+  color:white;
+  
+  
+}
+li a:hover:not(.active){
+  background-color:lightgreen;
+}
+a:hover{
+  background-color: green;
+}
+li a[href=search]:hover{
+  border-radius: 50%;
+}
+span#BrandLogo{
+  position:fixed
+}
